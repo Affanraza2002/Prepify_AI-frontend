@@ -83,8 +83,8 @@ function LandingPage() {
         <div>
           <section className="flex items-center justify-center -mt-36">
             <img
-              src={HERO_IMG}
-              alt="Hero Image"
+              src={__  }
+              alt="Intro image Image"
               className="w-[80vw] rounded-lg border-1 border-teal-300 box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);  "
             />
           </section>
